@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project xmlns:dc="http://purl.org/dc/elements/1.1/" created="2025-09-10T18:28:22.710036+02:00" required="2.1.0" version="2.3.2">
+<project xmlns:dc="http://purl.org/dc/elements/1.1/" created="2025-09-10T18:34:33.046165+02:00" required="2.1.0" version="2.3.2">
 	<title>Weather Analyser üöä</title>
 	<description/>
 	<catalog dc:uri="https://rdmorganiser.github.io/terms/questions/smp"/>
@@ -24,21 +24,6 @@
 		<view dc:uri="https://rdmo.mpdl.mpg.de/views/FAIR4RSview"/>
 	</views>
 	<values>
-		<value>
-			<attribute dc:uri="https://rdmo.mpdl.mpg.de/terms/domain/project/metadata/publication/github/sha/xml"/>
-			<set_prefix/>
-			<set_index>0</set_index>
-			<set_collection/>
-			<collection_index>0</collection_index>
-			<text>47ff77871e2dda1a16daedba68ffb5b4a15285e4</text>
-			<option/>
-			<file/>
-			<value_type>text</value_type>
-			<unit/>
-			<external_id/>
-			<created>2025-09-10T18:28:17.421846+02:00</created>
-			<updated>2025-09-10T18:28:17.421853+02:00</updated>
-		</value>
 		<value>
 			<attribute dc:uri="https://rdmo.mpdl.mpg.de/terms/domain/project/partner/affiliation"/>
 			<set_prefix>0</set_prefix>
