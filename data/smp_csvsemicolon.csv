@@ -37,7 +37,7 @@ Wird es einen Anforderungskatalog oder ein Lastenheft geben, in dem (kurz) die w
 Gibt es institutionelle Anforderungen an die Softwareentwicklung?;;We will follow https://hdl.handle.net/21.11116/0000-000C-80B1-A.
 Gibt es Anforderungen bezüglich der Softwareentwicklung von externer Seite?;;No
 Welche Programmiersprache(n) planen Sie zu verwenden?;;Python
-Welche Technologie oder welches Verfahren wird für die Versionierung verwendet?;;Git
+Welche Technologie oder welches Verfahren wird für die Versionierung verwendet?;;
 Welche externen Software-Komponenten werden verwendet? Welche Abhängigkeiten von Software-Bibliotheken gibt es? Wie dokumentieren Sie dies?;;We will use ZZZ, which is a software package for professional weather visualisations
 Welche Lizenzen liegen auf den Software-Komponenten von Drittanbietern?;;MIT
 Wie wird der Überblick über die externen Software-Komponenten behalten? Können kritische Abhängigkeiten eliminiert oder abgeschwächt werden?;;We will dockerized the project, so that we always work with a stable bundle of package versions
