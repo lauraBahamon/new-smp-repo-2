@@ -197,7 +197,7 @@
   {
     "question": "Welche Technologie oder welches Verfahren wird f\u00fcr die Versionierung verwendet?",
     "set": "",
-    "values": "Git"
+    "values": ""
   },
   {
     "question": "Welche externen Software-Komponenten werden verwendet? Welche Abh\u00e4ngigkeiten von Software-Bibliotheken gibt es? Wie dokumentieren Sie dies?",
